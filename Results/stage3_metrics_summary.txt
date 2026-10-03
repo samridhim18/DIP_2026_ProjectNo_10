@@ -1,0 +1,12 @@
+STAGE 3 CLASSICAL SKULL STRIPPING METRICS SUMMARY
+============================================================
+Analyzed Volume : BraTS20_Training_001_flair.nii
+Axial Slice     : 67
+============================================================
+
+Otsu Threshold Value     : 0.2559
+Brain Mask Area (pixels) : 15,751
+Total Slice Area         : 57,600
+Percentage Occupied      : 27.35%
+Dice Similarity vs Ref   : 0.9599
+Jaccard IoU vs Ref       : 0.9229

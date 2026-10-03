@@ -1,0 +1,12 @@
+STAGE 4 BASELINE TUMOR SEGMENTATION NUMERICAL METRICS
+============================================================
+Axial Slice Number       : 67
+Brain ROI Otsu Threshold : 0.5332
+Predicted Tumor Area     : 4,045 pixels
+Ground-Truth Tumor Area  : 5,048 pixels
+Area Difference          : -1,003 pixels (-19.87%)
+True Positives (TP)      : 3,698 pixels
+False Positives (FP)     : 347 pixels
+False Negatives (FN)     : 1,350 pixels
+Sørensen-Dice Coefficient: 0.8134
+Jaccard IoU Index        : 0.6854

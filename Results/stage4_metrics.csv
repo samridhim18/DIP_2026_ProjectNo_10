@@ -1,0 +1,2 @@
+Slice,Otsu_Threshold,Predicted_Area_px,GT_Area_px,Area_Diff_px,Dice,IoU
+67,0.533203125,4045,5048,-1003,0.8134,0.6854
