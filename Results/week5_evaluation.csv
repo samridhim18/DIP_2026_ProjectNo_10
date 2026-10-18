@@ -1,0 +1,2 @@
+patient,slice_idx,otsu_threshold,disk_r_tumor_open,disk_r_tumor_close,min_component_area,initial_candidate_px,total_components,retained_components,final_tumor_px,gt_area_px,pred_area_px,tp,fp,fn,dice,iou,precision,recall
+BraTS20_Training_001,67,0.450232,2,2,50,4268,2,2,4253,5048,4253,4088,165,960,0.879,0.7842,0.9612,0.8098
