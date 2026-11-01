@@ -1,0 +1,6 @@
+patient,group,slice_idx,method,gt_used,random_seed
+BraTS20_Training_001,dev,67,fixed_dev_slice,NO,42
+BraTS20_Training_035,eval,61,max_bright_content_thresh0.3,NO,42
+BraTS20_Training_167,eval,85,max_bright_content_thresh0.3,NO,42
+BraTS20_Training_243,eval,66,max_bright_content_thresh0.3,NO,42
+BraTS20_Training_285,eval,72,max_bright_content_thresh0.3,NO,42
