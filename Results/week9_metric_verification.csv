@@ -1,0 +1,11 @@
+patient,group,slice_idx,method,dice,iou,precision,recall,tp,fp,fn,pred_area,gt_area
+BraTS20_Training_001,dev,67,W6_baseline,0.8912,0.8038,0.9908,0.8098,4088,38,960,4126,5048
+BraTS20_Training_001,dev,67,W8_dilation,0.8912,0.8038,0.9908,0.8098,4088,38,960,4126,5048
+BraTS20_Training_035,eval,61,W6_baseline,0.7979,0.6637,0.9409,0.6926,1575,99,699,1674,2274
+BraTS20_Training_035,eval,61,W8_dilation,0.7776,0.6361,0.8863,0.6926,1575,202,699,1777,2274
+BraTS20_Training_167,eval,85,W6_baseline,0.4808,0.3165,0.3165,1.0,797,1721,0,2518,797
+BraTS20_Training_167,eval,85,W8_dilation,0.3467,0.2097,0.2097,1.0,797,3003,0,3800,797
+BraTS20_Training_243,eval,66,W6_baseline,0.9581,0.9196,0.9641,0.9522,3247,121,163,3368,3410
+BraTS20_Training_243,eval,66,W8_dilation,0.9581,0.9196,0.9641,0.9522,3247,121,163,3368,3410
+BraTS20_Training_285,eval,72,W6_baseline,0.724,0.5674,0.6582,0.8045,930,483,226,1413,1156
+BraTS20_Training_285,eval,72,W8_dilation,0.4483,0.2889,0.3107,0.8045,930,2063,226,2993,1156
